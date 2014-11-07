@@ -1,0 +1,5 @@
+.vagrant
+*~
+*.swp
+test.tar.bz2
+amsr_toolkits-*.tgz
